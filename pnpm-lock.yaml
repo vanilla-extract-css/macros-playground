@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 overrides:
-  '@vanilla-extract/integration': 0.0.0-experimental-macros-20236175227
+  '@vanilla-extract/integration': 0.0.0-experimental-macros-202362010319
 
 specifiers:
   '@types/react': ^18.2.14
@@ -9,8 +9,8 @@ specifiers:
   '@types/tailwindcss': ^2
   '@typescript-eslint/eslint-plugin': ^5.61.0
   '@typescript-eslint/parser': ^5.61.0
-  '@vanilla-extract/css': 0.0.0-experimental-macros-20236175227
-  '@vanilla-extract/vite-plugin': 0.0.0-experimental-macros-20236175227
+  '@vanilla-extract/css': 0.0.0-experimental-macros-202362010319
+  '@vanilla-extract/vite-plugin': 0.0.0-experimental-macros-202362010319
   '@vitejs/plugin-react': ^4.0.1
   eslint: ^8.44.0
   eslint-plugin-react-hooks: ^4.6.0
@@ -32,8 +32,8 @@ devDependencies:
   '@types/tailwindcss': 2.2.4
   '@typescript-eslint/eslint-plugin': 5.62.0_tbbci4he2x65aggpp4j2oxxdvm
   '@typescript-eslint/parser': 5.62.0_ko3fmmbeyij36muomfgt2u76xu
-  '@vanilla-extract/css': 0.0.0-experimental-macros-20236175227
-  '@vanilla-extract/vite-plugin': 0.0.0-experimental-macros-20236175227_vite@4.4.4
+  '@vanilla-extract/css': 0.0.0-experimental-macros-202362010319
+  '@vanilla-extract/vite-plugin': 0.0.0-experimental-macros-202362010319_vite@4.4.4
   '@vitejs/plugin-react': 4.0.3_vite@4.4.4
   eslint: 8.45.0
   eslint-plugin-react-hooks: 4.6.0_eslint@8.45.0
@@ -910,8 +910,8 @@ packages:
       - supports-color
     dev: true
 
-  /@vanilla-extract/css/0.0.0-experimental-macros-20236175227:
-    resolution: {integrity: sha512-IxNDujtzXym6bRMm2Yx4+Vwc+w0gOVVArQpk+yHZ0/G/Xf2RgENi1WSW6f98nXxx3rnMr15Rvx2miDJY6ByatQ==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/css/-/css-0.0.0-experimental-macros-20236175227.tgz}
+  /@vanilla-extract/css/0.0.0-experimental-macros-202362010319:
+    resolution: {integrity: sha512-9bGarJ/8K9+jiqLHHl3r6nL/LT2H6Oek3yWwh6Kp+8+vi0/fA7G9b2CVQ6mj532ET2oPVSKRoxtQi2Qu7ZPQ/w==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/css/-/css-0.0.0-experimental-macros-202362010319.tgz}
     dependencies:
       '@emotion/hash': 0.9.1
       '@vanilla-extract/private': 1.0.3
@@ -926,8 +926,8 @@ packages:
       outdent: 0.8.0
     dev: true
 
-  /@vanilla-extract/integration/0.0.0-experimental-macros-20236175227:
-    resolution: {integrity: sha512-bub5wdfM1Vz1q+hGotWxccxvBrUyGimUydLsvv0WnOpqdDzRDcRAfACjpnimvS6FvzgPGhe2w5YtKqdSE+w9Ng==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/integration/-/integration-0.0.0-experimental-macros-20236175227.tgz}
+  /@vanilla-extract/integration/0.0.0-experimental-macros-202362010319:
+    resolution: {integrity: sha512-PpABRNu3kBqEu4bhPgPv1Hwe5fJtm9MslTfJz7LJrNhMyiJp5zukkg53IeGIRzTqNsNUZYzw7/Ajh0lHkuKpGw==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/integration/-/integration-0.0.0-experimental-macros-202362010319.tgz}
     dependencies:
       '@babel/core': 7.22.9
       '@babel/generator': 7.22.9
@@ -936,7 +936,7 @@ packages:
       '@babel/traverse': 7.22.8
       '@parcel/graph': 2.9.3
       '@vanilla-extract/babel-plugin-debug-ids': 0.0.0-inline-prototype-202342012537
-      '@vanilla-extract/css': 0.0.0-experimental-macros-20236175227
+      '@vanilla-extract/css': 0.0.0-experimental-macros-202362010319
       esbuild: 0.17.6
       eval: 0.1.6
       find-up: 5.0.0
@@ -961,12 +961,12 @@ packages:
     resolution: {integrity: sha512-17kVyLq3ePTKOkveHxXuIJZtGYs+cSoev7BlP+Lf4916qfDhk/HBjvlYDe8egrea7LNPHKwSZJK/bzZC+Q6AwQ==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/private/-/private-1.0.3.tgz}
     dev: true
 
-  /@vanilla-extract/vite-plugin/0.0.0-experimental-macros-20236175227_vite@4.4.4:
-    resolution: {integrity: sha512-eRyz4l6EcbeZVVyKwiM6o9nuFT5KOqkC70/oLvR1/Im6KEOmv2xNAQNOMKi+kh2ydZa7kHq7cZt/JIa6Gdlkjg==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/vite-plugin/-/vite-plugin-0.0.0-experimental-macros-20236175227.tgz}
+  /@vanilla-extract/vite-plugin/0.0.0-experimental-macros-202362010319_vite@4.4.4:
+    resolution: {integrity: sha512-tz6OHlEP3xcPbl02uWLurk0Czh2dmyoY5BDKZ8icGabSmCj0Z5e9btsh83b4k75cF6UkAL1SwEvoCo+or8sH4w==, tarball: https://packages.atlassian.com/api/npm/npm-remote/@vanilla-extract/vite-plugin/-/vite-plugin-0.0.0-experimental-macros-202362010319.tgz}
     peerDependencies:
       vite: ^2.2.3 || ^3.0.0 || ^4.0.3
     dependencies:
-      '@vanilla-extract/integration': 0.0.0-experimental-macros-20236175227
+      '@vanilla-extract/integration': 0.0.0-experimental-macros-202362010319
       outdent: 0.8.0
       postcss: 8.4.26
       postcss-load-config: 3.1.4_postcss@8.4.26
