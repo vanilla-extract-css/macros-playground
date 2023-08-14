@@ -19,8 +19,8 @@
     "@types/tailwindcss": "^2",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@typescript-eslint/parser": "^5.61.0",
-    "@vanilla-extract/css": "0.0.0-experimental-macros-202362471213",
-    "@vanilla-extract/vite-plugin": "0.0.0-experimental-macros-202362471213",
+    "@vanilla-extract/css": "0.0.0-experimental-macros-20237146723",
+    "@vanilla-extract/vite-plugin": "0.0.0-experimental-macros-20237146723",
     "@vitejs/plugin-react": "^4.0.1",
     "eslint": "^8.44.0",
     "eslint-plugin-react-hooks": "^4.6.0",
@@ -31,6 +31,6 @@
     "vite": "^4.4.0"
   },
   "resolutions": {
-    "@vanilla-extract/integration": "0.0.0-experimental-macros-202362471213"
+    "@vanilla-extract/integration": "0.0.0-experimental-macros-20237146723"
   }
 }

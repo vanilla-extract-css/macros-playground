@@ -6,7 +6,7 @@ globalStyle$('body, body *', {
   boxSizing: 'border-box',
 });
 
-const tablet= 'screen and (min-width: 768px)';
+const tablet = 'screen and (min-width: 768px)';
 const desktop = 'screen and (min-width: 1024px)';
 
 export const App = () => (
